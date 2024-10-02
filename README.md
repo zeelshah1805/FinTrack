@@ -10,7 +10,7 @@ The **FinTrack** is a simple yet powerful tool to help you manage your personal 
 - **Delete Transaction**: You can delete transaction if entered mistakenly.
 
 ### 1. Home Screen
-![Home Screen](path_to_home_screen_image)
+![Home Screen] (Home Page.png)
 
 ### 2. Add Transaction
 ![Add Transaction](path_to_add_transaction_image)
